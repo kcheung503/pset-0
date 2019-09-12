@@ -46,7 +46,7 @@ public class ProblemSet0 {
          * Print a quoted message to the console.
          */
 
-        System.out.println("The answer's quite simple,\" the professor said. \"Just think outside the box!\"\n")
+        System.out.println("The answer's quite simple,\" the professor said. \"Just think outside the box!\"\n");
 
         /*
          * Exercise 4.
@@ -93,12 +93,12 @@ public class ProblemSet0 {
          * Print three diamonds to the console.
          */
 
-        System.out.println("  /\     /\     /\");
-        System.out.println(" /  \   /  \   /  \");
-        System.out.println("/    \ /    \ /    \");
-        System.out.println("\    / \    / \    /");
-        System.out.println(" \  /   \  /   \  /");
-        System.out.println("  \/     \/     \/\n");
+        System.out.println("  /\\     /\\     /\\  ");
+        System.out.println(" /  \\   /  \\   /  \\ ");
+        System.out.println("/    \\ /    \\ /    \\");
+        System.out.println("\\    / \\    / \\    /");
+        System.out.println(" \\  /   \\  /   \\  / ");
+        System.out.println("  \\/     \\/     \\/\n");
 
         /*
          * Exercise 9.
@@ -106,7 +106,7 @@ public class ProblemSet0 {
          * Print an encouraging message to the console.
          */
 
-        System.out.println("You're almost done with your first problem set...\n")
+        System.out.println("You're almost done with your first problem set...\n");
 
         /*
          * Exercise 10.
