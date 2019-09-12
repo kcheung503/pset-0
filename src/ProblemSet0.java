@@ -16,7 +16,7 @@
 
 public class ProblemSet0 {
 
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
 
         /*
          * Exercise 1.
@@ -54,7 +54,7 @@ public class ProblemSet0 {
          * Print a face to the console.
          */
 
-        System.out.println("\n   \\\\\\\\\\");
+        System.out.println("   \\\\\\\\\\");
         System.out.println("  +\"\"\"\"\"+");
         System.out.println("(|  0 0  |)");
         System.out.println(" |   ^   |");
@@ -69,7 +69,7 @@ public class ProblemSet0 {
 
         System.out.println("Here's today's to-do list:");
         System.out.println("\t- Go food shopping");
-        System.out.ptintln("\t- Mow the lawn\n");
+        System.out.println("\t- Mow the lawn\n");
 
         /*
          * Exercise 6.
@@ -77,7 +77,7 @@ public class ProblemSet0 {
          * Print a square of text to the console.
          */
 
-        System.out.println("H E L L O\nE\\A\nL\tP\nL\t\tC\nO A P C S\n")
+        System.out.println("H E L L O\nE       A\nL       P\nL       C\nO A P C S \n");
 
         /*
          * Exercise 7.
@@ -85,7 +85,7 @@ public class ProblemSet0 {
          * Print a countdown to the console.
          */
 
-        System.out.prin("Three.\tTwo.One.\tGo!\n");
+        System.out.println("Three.\tTwo.\tOne.\tGo!\n");
 
         /*
          * Exercise 8.
@@ -114,8 +114,8 @@ public class ProblemSet0 {
          * Print a plus sign to the console.
          */
 
-        System.out.println(\t+---+\n\t|\t|);
-        System.out.println(+---+\t+---+\n|\t\t\t|\n+---+\t+---+);
-        System.out.println(\t|\t|\t\n\t+---+\n);
+        System.out.println("\t+---+\n\t|\t|");
+        System.out.println("+---+\t+---+\n|\t\t\t|\n+---+\t+---+");
+        System.out.println("\t|\t|\t\n\t+---+\n");
     }
 }
