@@ -115,7 +115,7 @@ public class ProblemSet0 {
          */
 
         System.out.println("    +---+ \n    |   |");
-        System.out.println("+---+   +---+\n|           |\n+---++---+");
-        System.out.println("    ||\n+---+\n");
+        System.out.println("+---+   +---+\n|           |\n+---+   +---+");
+        System.out.println("    |   |\n    +---+\n");
     }
 }
